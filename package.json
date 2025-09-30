@@ -127,7 +127,7 @@
     "passport-local": "~1.0.0",
     "passport-twitter": "~1.0.4",
     "randomcolor": "~0.5.1",
-    "sanitize-html": "~1.19.1",
+    "sanitize-html": "~2.12.1",
     "serve-favicon": "~2.5.0",
     "speakingurl": "~14.0.1",
     "stathat": "0.0.8",
